@@ -1,0 +1,43 @@
+
+body{
+    background-color: #24353F;
+}
+
+.signIn{
+    width: 60%;
+    background-color: #24353F;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px !important;
+}
+
+.signIn h1{
+
+    color: #23a1ba;
+}
+
+.signIn input{
+    background: transparent !important;
+    color: white !important;
+}
+
+.signIn button{
+    background: transparent !important;
+    border: 1px solid #23a1ba !important;
+    color: #23a1ba;
+}
+
+.signIn button:hover{
+    color: white;
+    background-color: #23a1ba !important;
+}
+
+.signIn p a{
+    color: white;
+}
+
+.true-valadit{
+    color: green;
+}
+
+

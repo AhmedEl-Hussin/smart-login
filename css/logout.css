@@ -1,0 +1,35 @@
+
+body{
+    background-color: #24353F;
+}
+
+.signIn{
+    width: 60%;
+    background-color: #24353F;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 10px 70px 4px !important;
+}
+
+nav{
+    background-color: #24353F;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 5px 30px 2px !important;
+
+}
+
+.signIn h1{
+    color: #23a1ba;
+}
+
+.log{
+    border: 1px solid orange;
+    margin-right: 100px !important;
+
+}
+
+.log:hover{
+    border: 1px solid orange;
+    color: white !important;
+    background-color: orange;
+}
+
